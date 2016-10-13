@@ -1,6 +1,5 @@
 /*
- * Copyright 2016 William Snow & Victoria Houed
- * William wrote the code, Victoria replaced all the tabs with spaces
+ * Copyright 2016 William Snow & Victoria Houed. All Rights Reserved.
  */
 
 #include <Adafruit_NeoPixel.h>
